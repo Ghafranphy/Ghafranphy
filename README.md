@@ -27,4 +27,3 @@ My research focuses on General Relativity, relativistic kinetic theory, and blac
 - General Relativity
 - Kerr Black Holes
 - Relativistic Accretion Disks
-**My Goal:** Combining theoretical physics, programming, and machine learning to solve scientific and computational problems.

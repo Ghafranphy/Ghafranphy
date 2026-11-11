@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Ghafran Khan
 
-<!--
-**Ghafranphy/Ghafranphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 PhD Researcher in Theoretical Physics at Jagiellonian University, Poland.
 
-Here are some ideas to get you started:
+My research focuses on General Relativity, relativistic kinetic theory, and black hole astrophysics. I am also developing my programming skills in scientific computing, data analysis, and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Programming Skills
+
+- Python
+- MATLAB
+- Mathematica
+- R
+- SQL
+
+## 🐍 Python Libraries
+
+- NumPy
+- Pandas
+- Matplotlib
+
+## 📚 Currently Learning
+
+- Python Programming
+- Data Analysis
+- Data Visualization
+- Machine Learning
+- Artificial Intelligence
+
+## 🔬 Research Interests
+
+- General Relativity
+- Kerr Black Holes
+- Relativistic Accretion Disks
+- Computational Physics
+- Scientific Computing
+
+**My Goal:** Combining theoretical physics, programming, and machine learning to solve scientific and computational problems.

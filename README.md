@@ -2,7 +2,7 @@
 
 🎓 PhD Researcher in Theoretical Physics at **Jagiellonian University, Poland.**
 
-My research focuses on General Relativity, relativistic kinetic theory, and black hole astrophysics. I am also developing my programming skills in scientific computing, data analysis, and machine learning.
+My research focuses on General Relativity, relativistic kinetic theory, and black hole astrophysics. Alongside my research, I am expanding my expertise in **Python Programming, Machine Learning, Artificial Intelligence, Data Science, Data Analytics, Deep Learning, and Scientific Computing**. I am particularly interested in applying computational methods and data-driven techniques to complex scientific problems.
 
 ## 💻 Programming Skills
 - Python
